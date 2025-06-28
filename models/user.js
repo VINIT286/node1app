@@ -11,4 +11,3 @@ const userschema=new mongoose.Schema({
     }
 })
 export default mongoose.model("User",userschema)
-.
