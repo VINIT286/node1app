@@ -23,4 +23,3 @@ app.use(router)
 app.listen(port,(req,res)=>{
     console.log("running code on 8000")
 })
-// react app
